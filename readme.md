@@ -11,8 +11,6 @@ This project is dedicated to automating the classification of date fruits using 
 5. [Project Design](#project-design)
 6. [Results](#results)
 7. [Future Work](#future-work)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Project Overview
 
